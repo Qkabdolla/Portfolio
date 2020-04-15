@@ -1,7 +1,7 @@
 # Portfolio
 
 # Exchange
-Module of internet banking app for echanging currency.
+Module of internet banking app for exchanging currency.
 
 ![](imgs/forte.jpg)
 ![](imgs/EXfull.jpg)
