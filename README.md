@@ -10,9 +10,3 @@ Module of internet banking app for exchanging currency.
 App based on open source api unsplash, for sharing photos.
 
 ![](imgs/unsplash2.jpg)
-
-# Oh Snap!
-App reminder, simple but useful
-
-![](imgs/ohsnap2.jpg)
-![](imgs/ohsnap3.jpg)
